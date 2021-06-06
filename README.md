@@ -1,5 +1,5 @@
 # 16 c++ games with SFML
-
+TODO отрефакторить все 16 игр
 ---
 
 ## Quick Start
